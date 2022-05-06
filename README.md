@@ -1,6 +1,8 @@
 # Ant-Colony-Optimization-on-BPP-2019
 Ant Colony Optimization on Bin Packing Problem, made in 2019.
 
+Video: [Ant Colony Optimization on Bin Packing Problem (principles, importance & actual code)](https://youtu.be/hjX-ckqqSk4)
+
 ## Problem 1
 
 For problem 1, there are 10 bins, 500 items. The weight of items are 1,2,...,500.
